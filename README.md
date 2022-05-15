@@ -1,4 +1,4 @@
-# self-introduction
+# self-introduction(自己紹介ページ)
 
 自身のページのみのソースコードとなります。
 
